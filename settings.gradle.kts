@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "NewComposeLibrary"
+rootProject.name = "NewNavigationComposeLibrary"
 include(":app")
  
